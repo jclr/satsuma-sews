@@ -1,0 +1,2 @@
+webpackJsonp([89450997894629],{402:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Blog",author:"Kyle Mathews"}},markdownRemark:{id:"/Users/jacy/satsuma-sews/src/pages/test/index.md absPath of file >>> MarkdownRemark",html:"<p>TEST TEST TEST</p>",frontmatter:{title:"Test",date:"May 28, 2015"}}},pathContext:{slug:"/test/",previous:{fields:{slug:"/my-second-post/"},frontmatter:{title:"My Second Post!"}},next:{fields:{slug:"/hi-folks/"},frontmatter:{title:"New Beginnings"}}}}}});
+//# sourceMappingURL=path---test-7f80522fd98bafe8ede2.js.map
